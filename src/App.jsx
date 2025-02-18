@@ -1,7 +1,7 @@
-function App() {
-  console.log("Olá, Mundo!");
+import Header from "./components/Header";
 
-  return <h1>Olá, Mundo!</h1>;
+function App() {
+  return <Header />;
 }
 
 export default App;
