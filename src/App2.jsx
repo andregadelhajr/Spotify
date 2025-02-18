@@ -44,3 +44,7 @@ export default App2
 // header
 // header__link
 // header__link--small
+// item-list__header
+// Nomes compostos são separados por hifem -
+
+// Tag vazia em React se chama Fragment ou Fragmento
